@@ -1,0 +1,4 @@
+DEFAULT: \
+	mocha
+TEST :\
+	
